@@ -146,4 +146,4 @@ configuration {
   }
 }
 
-@theme "glue_pro_blue"
+@theme "nord"
