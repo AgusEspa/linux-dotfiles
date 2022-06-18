@@ -22,3 +22,6 @@ totem/
 user-dirs.dirs
 user-dirs.locale
 vlc/
+
+lazygit/config.yml
+lazygit/state.yml
