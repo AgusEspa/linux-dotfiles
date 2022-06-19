@@ -24,3 +24,18 @@ vlc/
 
 lazygit/config.yml
 lazygit/state.yml
+
+nvim/plugged/coc.nvim
+nvim/plugged/java-syntax.vim
+nvim/plugged/nerdcommenter
+nvim/plugged/nerdtree
+nvim/plugged/nvim-colorizer.lua
+nvim/plugged/plenary.nvim
+nvim/plugged/telescope.nvim
+nvim/plugged/ultisnips
+nvim/plugged/vim-airline
+nvim/plugged/vim-javascript
+nvim/plugged/vim-jsx-pretty
+nvim/plugged/vim-nerdtree-syntax-highlight
+nvim/plugged/vim-polyglot
+nvim/plugged/vim-react-snippets
