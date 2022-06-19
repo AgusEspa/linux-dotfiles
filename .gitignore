@@ -39,3 +39,8 @@ nvim/plugged/vim-jsx-pretty
 nvim/plugged/vim-nerdtree-syntax-highlight
 nvim/plugged/vim-polyglot
 nvim/plugged/vim-react-snippets
+
+nvim/plugged/nord-vim/autoload
+nvim/plugged/nord-vim/license
+nvim/plugged/nord-vim/changelog.md
+nvim/plugged/nord-vim/readme.md
